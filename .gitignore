@@ -1,0 +1,20 @@
+# Dependencias de Node.js
+node_modules/
+
+# Variables de entorno y contraseñas
+.env
+.env.*
+!.env.example
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
